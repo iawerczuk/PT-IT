@@ -1,0 +1,14 @@
+@import "variables";
+@import "elements";
+
+.footer{
+    background-color: $color-bg;
+    opacity: 0.6;
+    background: url("../bg.png") center no-repeat;
+    background-size: cover;
+    height: 50px;
+    span{
+        padding: 20px;
+        color: $color-font;
+    }
+}

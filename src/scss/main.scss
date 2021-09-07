@@ -1,0 +1,17 @@
+@import "reset";
+@import "content";
+@import "elements";
+@import "footer";
+@import "nav";
+@import "variables";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font: $font-main;
+}
+body {
+  width: 100%;
+  height: 100%;
+}

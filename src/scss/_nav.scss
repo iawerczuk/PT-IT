@@ -1,0 +1,15 @@
+@import "variables";
+@import "elements";
+
+.nav{
+    background-color: $color-bg;
+    // opacity: 0.6;
+    background: url("../bg.png") center no-repeat;
+    background-size: cover;
+    height: 100px;
+
+    span{
+        padding: 20px;
+        color: $color-font;
+    }
+}

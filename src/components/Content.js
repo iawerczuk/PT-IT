@@ -9,7 +9,7 @@ export default function Content() {
                     <p>
                         Od wielu lat zajmuję sie rehabilitacją ortopedyczną. Głównymi obszarami zainteresowań jest leczenie zachowawcze i pooperacyjne stawu kolanowego, skokowego, stopy i tk. miękkich kończyny dolnej
                     </p>
-                    <a href="https://carolina.pl" alt="carolina.pl"><img src="../logo-kolor-carolina1.png"></img></a>
+                    <a href="https://carolina.pl" alt="carolina.pl"><img src="../logo-kolor-carolina1.png" alt=""></img></a>
             </div>          
             <div className='logo'>
                     <img src={logo} alt="logo"/>
@@ -23,7 +23,7 @@ export default function Content() {
             <div className="it">
                 <h1>IT</h1>
                 <p>
-                    Jestem junior front-end developerem. Pracuję w środowisku ReactJS.
+                    Jestem junior front-end developerem. Pracuję w środowisku ReactJS. <br></br>Aktualnie szukam nowych wyzwań.
                 </p>
                 <div className="skills">
                     <ul>
